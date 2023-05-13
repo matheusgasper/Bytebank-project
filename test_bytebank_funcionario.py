@@ -1,4 +1,4 @@
-from codigo.bytebank import Funcionario
+from bytebank_funcionario import Funcionario
 import pytest
 from pytest import mark
 
